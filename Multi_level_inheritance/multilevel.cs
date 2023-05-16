@@ -24,7 +24,7 @@ namespace multilevel
             Console.WriteLine("Ragi Cookies");
         }
     }
-    class Program
+    class multi
     {
         static void Main(string[] args)
         {
