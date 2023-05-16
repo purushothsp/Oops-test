@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SingleInheritance
+/*namespace SingleInheritance
 {
     class karam_Snacks
     {
@@ -38,4 +38,4 @@ namespace SingleInheritance
             Console.ReadLine();
         }
     }
-}
+}*/

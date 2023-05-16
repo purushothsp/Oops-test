@@ -24,9 +24,9 @@ namespace milk
     {
         static void Main(string[] args)
         {
-            food myra = new Rasmalai();
+            food my = new Rasmalai();
             food mykhee = new Khee();
-            myra.makeing();
+            my.makeing();
             mykhee.makeing();
         }
     }
