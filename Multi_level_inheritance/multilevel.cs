@@ -30,7 +30,7 @@ namespace multilevel
         {
             even_snacks snacks = new even_snacks();
 
-            snacks.val(); 
+            snacks.val();
             snacks.swt();
             snacks.even();
         }
