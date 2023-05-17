@@ -33,7 +33,6 @@
             myfood.makeing();
             myra.makeing();
             mykhee.makeing();
-
         }
     }
 }*/
